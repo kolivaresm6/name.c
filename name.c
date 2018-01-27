@@ -7,6 +7,6 @@ The program prints my name
 #include<stdio.h>
 
 int main(void) {
-	printf("Kenny Olivares-Mendez\n");
+	printf("Kenny Olivares-Mendez and Maricela Paramo\n");
 	return 0;
 }
